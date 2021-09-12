@@ -32,16 +32,14 @@ Durante qas aulas tomei a liberdade de mudar alguns pontos no layout e de cores.
 ## Screenshots
 
 <div>
-  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamento.png" alt="Your image title" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamento.png" alt="agendamento" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamento2.png" alt="agendamento" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamentos.png" alt="agendamentos" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/busca.png" alt="busca" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/detalhesBarbeiro.png" alt="detalhesBarbeiro" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/favoritos.png" alt="favoritos" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/home.png" alt="home" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/loading.png" alt="loading" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/preload.png" alt="preload" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/splash.png" alt="splash" width="250"/>
 </div>
-![agendamento](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamento.png)
-![agendamento](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamento2.png)
-![agendamento](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamentos.png)
-![agendamentos](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamentos.png)
-![busca](https://github.com/JereLima/devBarber/blob/master/imagesGit/busca.png)
-![detalhes_barbeiro](https://github.com/JereLima/devBarber/blob/master/imagesGit/detalhesBarbeiro.png)
-![favoritos](https://github.com/JereLima/devBarber/blob/master/imagesGit/favoritos.png)
-![home](https://github.com/JereLima/devBarber/blob/master/imagesGit/home.png)
-![loading](https://github.com/JereLima/devBarber/blob/master/imagesGit/loading.png)
-![preload](https://github.com/JereLima/devBarber/blob/master/imagesGit/preload.png)
-![splash](https://github.com/JereLima/devBarber/blob/master/imagesGit/splash.png)
