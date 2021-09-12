@@ -1,7 +1,7 @@
 
 # DevBarber
 
-Olá esse é um projeto de estudos feitos duarantes as aulas de React-native, do curso da B7 B7 Web
+Olá esse é um projeto de estudos feitos duarantes as aulas de React-native, do curso da B7Web
 
 ##  O que tem de bom?
 
