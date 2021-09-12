@@ -27,6 +27,8 @@ Olá esse é um projeto de estudos feitos duarantes as aulas de React-native, do
 
 <div>
   <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/splash.png" alt="splash" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/login.png" alt="splash" width="250"/>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/cadastro.png" alt="splash" width="250"/>
   <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/preload.png" alt="preload" width="250"/>
   <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/home.png" alt="home" width="250"/>
   <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/busca.png" alt="busca" width="250"/>
