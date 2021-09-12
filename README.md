@@ -31,6 +31,9 @@ Durante qas aulas tomei a liberdade de mudar alguns pontos no layout e de cores.
   
 ## Screenshots
 
+<div>
+  <img src="https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamento.png" alt="Your image title" width="250"/>
+</div>
 ![agendamento](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamento.png)
 ![agendamento](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamento2.png)
 ![agendamento](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamentos.png)
