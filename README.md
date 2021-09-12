@@ -31,17 +31,14 @@ Durante qas aulas tomei a liberdade de mudar alguns pontos no layout e de cores.
   
 ## Screenshots
 
-![Login](https://ibb.co/GkX6RkQ)
-![xx](https://ibb.co/ZzmGGmn)
-![ss](https://ibb.co/6yvGPS2)
-![aa](https://ibb.co/jJQkwvG)
-![xxc](https://ibb.co/Y357jWr)
-![fg](https://ibb.co/19B36Db)
-![hh](https://ibb.co/KbqHZ46)
-![rr](https://ibb.co/5BssPLg)
-
-![Preview](https://drive.google.com/file/d/1X7VZuGiL_0l9GMwdjRGwqAO4HxQgrjtA/view?usp=sharing)
-
-
-  
-# Barber-Show
+![agendamento](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamento.png)
+![agendamento](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamento2.png)
+![agendamento](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamentos.png)
+![agendamentos](https://github.com/JereLima/devBarber/blob/master/imagesGit/agendamentos.png)
+![busca](https://github.com/JereLima/devBarber/blob/master/imagesGit/busca.png)
+![detalhes_barbeiro](https://github.com/JereLima/devBarber/blob/master/imagesGit/detalhesBarbeiro.png)
+![favoritos](https://github.com/JereLima/devBarber/blob/master/imagesGit/favoritos.png)
+![home](https://github.com/JereLima/devBarber/blob/master/imagesGit/home.png)
+![loading](https://github.com/JereLima/devBarber/blob/master/imagesGit/loading.png)
+![preload](https://github.com/JereLima/devBarber/blob/master/imagesGit/preload.png)
+![splash](https://github.com/JereLima/devBarber/blob/master/imagesGit/splash.png)
