@@ -1,6 +1,5 @@
 import {useNavigation} from '@react-navigation/native';
 import React, {useState, useContext} from 'react';
-import styled from 'styled-components/native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import {UserContext} from '../../contexts/UserContext';
 //Components
@@ -10,13 +9,7 @@ import ButtonComponent from '../../components/ButtonComponent';
 import BarberLogo from '../../assets/barber.svg';
 import Api from '../../Api';
 
-export const Container = styled.SafeAreaView`
-  flex: 1;
-  justify-content: center;
-  align-items: center;
-  background-color: #63c2d1;
-`;
-export const Insputs = styled.TextInput``;
+import {Container} from './styles';
 
 const SingUp = () => {
   const {dispatch: userDispatch} = useContext(UserContext);

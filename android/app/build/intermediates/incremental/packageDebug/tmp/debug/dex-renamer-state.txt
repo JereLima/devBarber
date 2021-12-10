@@ -1,4 +1,4 @@
-#Sat Sep 11 19:57:59 BRT 2021
-base.0=/home/jeremiaslima/Documentos/devBarber/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Fri Dec 10 13:59:00 BRT 2021
+base.0=/Users/devsolistica/Documents/React-native/devBarber/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

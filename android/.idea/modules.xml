@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devsBarber.iml" filepath="$PROJECT_DIR$/.idea/modules/devsBarber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/devsBarber.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/devsBarber.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-330679352/devsBarber.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-330679352/devsBarber.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/16675043/devsBarber.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/16675043/devsBarber.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-916069244/devsBarber.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-916069244/devsBarber.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1865041541/devsBarber.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/-1865041541/devsBarber.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-160420653/devsBarber.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-160420653/devsBarber.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1859607791/devsBarber.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-1859607791/devsBarber.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/988445033/devsBarber.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/988445033/devsBarber.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1105943676/devsBarber.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1105943676/devsBarber.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1532815252/devsBarber.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1532815252/devsBarber.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-975959567/devsBarber.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-975959567/devsBarber.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-894807069/devsBarber.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-894807069/devsBarber.react-native-vector-icons.iml" />
     </modules>
   </component>
 </project>

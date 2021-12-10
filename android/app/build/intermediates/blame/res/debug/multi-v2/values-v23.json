@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jeremiaslima/Documentos/devBarber/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/devsolistica/Documents/React-native/devBarber/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/jeremiaslima/.gradle/caches/transforms-2/files-2.1/cc882b9ef562562d9a48f00a1e1033d5/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/devsolistica/.gradle/caches/transforms-2/files-2.1/cc882b9ef562562d9a48f00a1e1033d5/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/jeremiaslima/.gradle/caches/transforms-2/files-2.1/268be37c762c3f1e21922779bb4297e4/material-1.1.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/devsolistica/.gradle/caches/transforms-2/files-2.1/268be37c762c3f1e21922779bb4297e4/material-1.1.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/home/jeremiaslima/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/devsolistica/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

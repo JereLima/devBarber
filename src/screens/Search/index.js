@@ -1,14 +1,12 @@
-import React, {useState, useLayoutEffect, useContext} from 'react';
-import {ScrollView, Text, TextInput, View} from 'react-native';
-import {useNavigation} from '@react-navigation/native';
-import styled from 'styled-components/native';
-import {UserContext} from '../../contexts/UserContext';
+import React, {useState} from 'react';
+import {ScrollView, View} from 'react-native';
 //Components
 import TextInputComponent from '../../components/TextInput';
 import Loading from '../../components/Loading';
 
 import Api from '../../Api';
 import BarberComponent from '../../components/BarberComponent';
+import {Container} from './styles';
 
 const Search = () => {
   const [searchText, setSearchText] = useState('');
@@ -56,8 +54,3 @@ const Search = () => {
   );
 };
 export default Search;
-
-export const Container = styled.SafeAreaView`
-  flex: 1;
-  align-items: center;
-`;

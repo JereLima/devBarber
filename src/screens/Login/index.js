@@ -13,14 +13,7 @@ import BarberLogo from '../../assets/barber.svg';
 //api
 import Api from '../../Api';
 import {UserReducer} from '../../reducers/UserReducer';
-
-export const Container = styled.SafeAreaView`
-  flex: 1;
-  justify-content: center;
-  align-items: center;
-  background-color: #63c2d1;
-`;
-export const Insputs = styled.TextInput``;
+import {Container} from './styles';
 
 const Login = () => {
   const {dispatch: userDispatch} = useContext(UserContext);

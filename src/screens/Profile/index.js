@@ -1,7 +1,5 @@
-import React, {useState, useContext, useSe} from 'react';
-import {SafeAreaView, Text, TouchableOpacity, View} from 'react-native';
+import React, {useState, useContext} from 'react';
 import {useNavigation} from '@react-navigation/native';
-import styled from 'styled-components/native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import {UserContext} from '../../contexts/UserContext';
 //Components
@@ -9,9 +7,19 @@ import TextInputComponent from '../../components/TextInput';
 import ButtonComponent from '../../components/ButtonComponent';
 import ModalComponent from '../../components/ModalComponent';
 //Imagens/svgs
-import BarberLogo from '../../assets/barber.svg';
 //api
 import Api from '../../Api';
+import {
+  Container,
+  IconPerfil,
+  Scroll,
+  AreaEditUser,
+  AreaUser,
+  TextName,
+  TextEmail,
+  Space,
+  AdjustmentView,
+} from './styles';
 
 const Profile = () => {
   const {dispatch: userDispatch} = useContext(UserContext);
@@ -143,62 +151,3 @@ const Profile = () => {
   );
 };
 export default Profile;
-
-export const Container = styled.SafeAreaView`
-  flex: 1;
-  justify-content: center;
-  align-items: center;
-  background-color: white;
-`;
-
-export const Logout = styled.TouchableOpacity`
-  width: 80%;
-  height: 80px;
-  justify-content: center;
-  align-items: center;
-  background-color: darkkhaki;
-`;
-export const TextLogout = styled.Text`
-  font-size: 20px;
-`;
-export const IconPerfil = styled.Image`
-  width: 120px;
-  height: 120px;
-  margin-top: 30px;
-  border-radius: 60px;
-  background-color: white;
-`;
-export const Scroll = styled.ScrollView`
-  background-color: white;
-  flex: 1;
-`;
-export const AreaEditUser = styled.View`
-  padding-top: 40px;
-  width: 90%;
-  justify-content: center;
-  align-items: center;
-`;
-export const AreaUser = styled.View`
-  width: 90%;
-  margin-top: 30px;
-  padding-top: 20px;
-  background-color: #63c2d1;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-`;
-export const TextName = styled.Text`
-  font-size: 20px;
-`;
-export const TextEmail = styled.Text`
-  font-size: 20px;
-`;
-export const Space = styled.View`
-  width: 100%;
-  height: 65px;
-`;
-export const AdjustmentView = styled.View`
-  flex-direction: row;
-  width: 100%;
-  justify-content: space-around;
-`;

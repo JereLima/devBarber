@@ -1,11 +1,20 @@
 import React, {useState, useEffect} from 'react';
-import {Text, RefreshControl} from 'react-native';
+import {RefreshControl} from 'react-native';
 import {useNavigation} from '@react-navigation/native';
-import styled from 'styled-components/native';
 //Components
 import Api from '../../Api';
 import CardSchedulingComponent from '../../components/CardSchedulingComponent';
 import Loading from '../../components/Loading';
+
+import {
+  Container,
+  HeaderView,
+  HeaderText,
+  Scroll,
+  AppointmentsView,
+  AppointmentsEmpty,
+  TextEmpty,
+} from './styles';
 
 const Appointments = () => {
   const navigation = useNavigation();
@@ -65,28 +74,3 @@ const Appointments = () => {
   );
 };
 export default Appointments;
-
-export const Container = styled.SafeAreaView`
-  flex: 1;
-`;
-export const HeaderView = styled.View`
-  height: 10%;
-  width: 100%;
-  background-color: #63c2d1;
-  justify-content: center;
-  padding-left: 20px;
-`;
-export const HeaderText = styled.Text`
-  font-size: 20px;
-  color: white;
-  font-weight: bold;
-`;
-export const Scroll = styled.ScrollView`
-  width: 100%;
-`;
-export const AppointmentsView = styled.View``;
-export const AppointmentsEmpty = styled.View``;
-export const TextEmpty = styled.Text`
-  font-size: 18px;
-  color: #63c2d1;
-`;

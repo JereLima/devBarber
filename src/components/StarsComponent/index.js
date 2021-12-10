@@ -1,21 +1,8 @@
-import styled from 'styled-components/native';
 import React from 'react';
-import {View, Text} from 'react-native';
 import StarEmpty from '../../assets/star_empty.svg';
 import Star from '../../assets/star.svg';
 import StarHalf from '../../assets/star_half.svg';
-
-export const Container = styled.View`
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-`;
-export const StarView = styled.View``;
-
-export const TextNumber = styled.Text`
-  font-size: 16px;
-  color: #737373;
-`;
+import {Container, StarView, TextNumber} from './styles';
 
 const StarsComponent = ({stars, showNumber}) => {
   let s = [0, 0, 0, 0, 0];
